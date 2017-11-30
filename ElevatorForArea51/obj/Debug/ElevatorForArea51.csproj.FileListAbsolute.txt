@@ -1,0 +1,7 @@
+C:\Users\Hristo\Documents\Visual Studio 2017\Projects\ElevatorForArea51\ElevatorForArea51\bin\Debug\ElevatorForArea51.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2017\Projects\ElevatorForArea51\ElevatorForArea51\bin\Debug\ElevatorForArea51.exe
+C:\Users\Hristo\Documents\Visual Studio 2017\Projects\ElevatorForArea51\ElevatorForArea51\bin\Debug\ElevatorForArea51.pdb
+C:\Users\Hristo\Documents\Visual Studio 2017\Projects\ElevatorForArea51\ElevatorForArea51\obj\Debug\ElevatorForArea51.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2017\Projects\ElevatorForArea51\ElevatorForArea51\obj\Debug\ElevatorForArea51.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\Documents\Visual Studio 2017\Projects\ElevatorForArea51\ElevatorForArea51\obj\Debug\ElevatorForArea51.exe
+C:\Users\Hristo\Documents\Visual Studio 2017\Projects\ElevatorForArea51\ElevatorForArea51\obj\Debug\ElevatorForArea51.pdb
